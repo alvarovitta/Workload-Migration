@@ -30,4 +30,4 @@ Use the following sections to plan and implement your Azure Workload migrations:
 
 ## Next steps
 
-[Discovery and Rationalization]https://github.com/alvarovitta/Workload-Migration/blob/master/1.0-Discovery-and-Rationalization-to-2.0-Migrating-your-Workloads.md)
+[Discovery and Rationalization](https://github.com/alvarovitta/Workload-Migration/blob/master/1.0-Discovery-and-Rationalization-to-2.0-Migrating-your-Workloads.md)
