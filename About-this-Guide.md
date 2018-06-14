@@ -1,4 +1,4 @@
-# About this Guide
+# About this Guide - draft
 
 If you want to just migrate a data center to the cloud, then go straight to the technical migration
 If you want to prioritize workloads and determine which applications should move first, then do a business assessment and portfolio analysis to determine the prioritization (reword)
