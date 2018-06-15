@@ -19,10 +19,8 @@ Use the following sections to plan and implement your Azure Workload migrations:
 2. [Assessment and Planning](https://github.com/alvarovitta/Workload-Migration/blob/master/2.0-Assessment-and-Planning.md): Use the information in this section to help you xxx.
 
 3. [Target Preparation and Migration](https://github.com/alvarovitta/Workload-Migration/blob/master/3.0-Target-Preparation-and-Migration.md): Use the information described in this section to xxx.
-
 <br />
 <br />
-
 ## Next steps
 
 [Discovery and Rationalization](https://github.com/alvarovitta/Workload-Migration/blob/master/1.0-Discovery-and-Rationalization-to-2.0-Migrating-your-Workloads.md)
